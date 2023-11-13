@@ -38,7 +38,7 @@ class ArrayX
 		{
 			if(iArr)
 			{
-				delete iArr;
+				delete[] iArr;
 			}
 		}
 		
